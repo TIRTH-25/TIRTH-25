@@ -1,6 +1,5 @@
 - 👋 Hi, I’m TIRTH PATEL.
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning JS.
 - 📫 How to reach me tirthp2504@gamil.com.
 
 <!---
